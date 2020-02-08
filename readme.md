@@ -1,4 +1,4 @@
-#Cleaned Inoreader CSS
+# Cleaned Inoreader CSS
 
 I didn't like all the padding and busy buttons all over the new Inoreader.com layout, so I made this CSS override.
 
