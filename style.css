@@ -1,0 +1,49 @@
+div.article_comment_bar{
+  background-color:red;
+  display:none !important;
+}
+div.article_tags{
+  background-color: blue;
+  display:none !important;
+}
+div.article_footer_buttons{
+  margin:0 !important;
+  padding:0 !important;
+  
+}
+div.footerized{
+  padding:0 !important;
+}
+div.article_footer{
+  padding:0 !important;
+}
+
+div.article_social_bar{
+  background-color: orange;
+  display:none !important;
+}
+div.sd{
+  display:none;
+}
+div.article_title_expanded_view{
+  
+  margin-bottom: 0 !important;
+}
+div.article_sub_title{
+  margin-top:8px;
+}
+div.icon-button-email{
+  display:none !important;
+}
+div.icon-button-mobilize-empty{
+  display: none !important;
+}
+div.icon-button-text-preferences{
+    display: none !important;
+}
+div.icon-button-more{
+    display: none !important;
+}
+div.article_footer_main_buttons{
+  width:80px
+}
