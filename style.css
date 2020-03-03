@@ -47,3 +47,6 @@ div.icon-button-more{
 div.article_footer_main_buttons{
   width:80px
 }
+p.p_no_top{
+  display:none;
+}
